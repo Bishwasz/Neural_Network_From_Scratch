@@ -1,10 +1,10 @@
 # Neural_Network_From_Scratch
 
 
-Used numpy to create Neural network to identify MNIST handwritted digits.
+Used numpy to create Neural network to identify MNIST handwritted digits.<br/>
 
-Here are some trials:  
-Configuration for the following trials:  
+Here are some trials:<br/>  
+Configuration for the following trials:<br/>
 Hidden Layers:1. 
 Nodes in Hidden Layer: 100. 
 Learn Rate: 0.05. 
