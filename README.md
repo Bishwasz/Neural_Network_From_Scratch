@@ -13,3 +13,4 @@ Learn Rate: 0.05<br/>
 Activation Function: Relu+SoftMax<br/>
 Loss function: Cross Entropy<br/>
 Batch Size:100<br/>
+![Alt text](ptygood.0150.png?raw=true "Title")
