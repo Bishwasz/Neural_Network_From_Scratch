@@ -8,6 +8,7 @@ Here are some trials:<br/>
 
 Configuration for the Below Trial trials:<br/>
 Hidden Layers:1<br/>
+Images Trained: 5000<br/>
 Nodes in Hidden Layer: 100<br/>
 Learn Rate: 0.01<br/>
 Activation Function: Relu+SoftMax<br/>
@@ -19,6 +20,7 @@ Batch Size:50<br/>
 
 Configuration for the Below Trial trials:<br/>
 Hidden Layers:1<br/>
+Images Trained:5000<br/>
 Nodes in Hidden Layer: 100<br/>
 Learn Rate: 0.04<br/>
 Activation Function: Relu+SoftMax<br/>
