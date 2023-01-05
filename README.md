@@ -29,5 +29,5 @@ Batch Size:50<br/>
 ![Alt text](good50.4.png?raw=true "Title")
 
 Here are some resources that helped me.
-https://www.youtube.com/watch?v=sIX_9n-1UbM
+https://www.youtube.com/watch?v=sIX_9n-1UbM<br/>
 https://www.youtube.com/watch?v=hfMk-kjRv4c&t=629s
