@@ -28,6 +28,6 @@ Loss function: Cross Entropy<br/>
 Batch Size:50<br/>
 ![Alt text](good50.4.png?raw=true "Title")
 
-Here are some resources that helped me.
+Here are some resources that helped me.<br/>
 https://www.youtube.com/watch?v=sIX_9n-1UbM<br/>
 https://www.youtube.com/watch?v=hfMk-kjRv4c&t=629s
