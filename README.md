@@ -11,4 +11,3 @@ Learn Rate: 0.05
 Activation Function: Relu+SoftMax
 Loss function: Cross Entropy
 Batch Size:100
-Batches Trained:
