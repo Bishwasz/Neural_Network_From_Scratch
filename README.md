@@ -4,7 +4,7 @@
 Used numpy to create Neural network to identify MNIST handwritted digits.<br/>
 
 Here are some trials:<br/>  
-
+(Put it on light Mode to see the labels)
 
 Configuration for the Below Trial trials:<br/>
 Hidden Layers:1<br/>
